@@ -2,7 +2,6 @@
 namespace controllers;
 
 use models\Mysql;
-use views\ViewController;
 
 class BaseController
 {
